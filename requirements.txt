@@ -1,0 +1,9 @@
+streamlit  #web app
+pandas      #commnet dataframe
+numpy       #numeric ops(polarization score)
+plotly      #pie chart
+transformers  #BERT
+torch          #BERT backend
+scikit-learn    #any ML utils//metrics
+google-api-python-client  #YouTube comments fetch 
+regex                    #text preprocessing (often used in NLP)
